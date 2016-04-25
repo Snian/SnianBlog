@@ -115,13 +115,13 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: snian
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 让坚持成为一种习惯
+description: So we beat on, boats against the current, borne back ceaselessly into the past.
 theme: kunka
 disqusname: minixalpha
 
